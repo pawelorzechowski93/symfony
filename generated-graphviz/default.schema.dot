@@ -1,0 +1,4 @@
+digraph G {
+nodetask [label="{<table>task|<cols>id (INTEGER) [PK]\lname (VARCHAR)\ldescryption (VARCHAR)\lstart_date (DATE)\lend_date (DATE)\l}", shape=record];
+
+}
